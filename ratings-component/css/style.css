@@ -1,0 +1,11 @@
+@media (min-width: 600px) {
+  .container {
+    width: 600px;
+  }
+}
+
+@media (min-width: 1199px) {
+  #rating {
+    font-size: 2.8rem;
+  }
+}
